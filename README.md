@@ -1,3 +1,3 @@
 # DSA
 
-Data Structure and Algorithm Course
+Data Structure and Algorithm Course(IInd Semester)
